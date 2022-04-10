@@ -25,8 +25,9 @@ NIE WOLNO podejmować prób nadużywania, wykorzystywania lub niewłaściwego ko
 NIE NALEŻY przekraczać naszych rate-limitów przez dłuższy czas. Takie działania są traktowane bardzo poważnie i w razie potrzeby mogą być nawet zgłaszane lokalnym władzom.
 
 ***Ograniczenia***
-Wraz z powyższymi warunkami dotyczącymi usług internetowych Aquis'a, zastrzegamy sobie prawo do blokowania wszelkich żądań wysyłanych do tych usług w dowolnym momencie, z dowolnego powodu. Powinieneś użyć niestandardowego klienta użytkownika, jeśli automatyzujesz żądania, aby umożliwić nam identyfikację. Jeśli zauważysz, że jesteś blokowany przez Cloudflare, upewnij się, że używasz niestandardowego agenta. Jeśli nadal jesteś blokowany, wyślij e-mail na adres kontakt@Aquis.com.pl, podając RAY ID ze strony.
-Korzystanie z usług stron trzecich
+Wraz z powyższymi warunkami dotyczącymi usług internetowych Aquis'a, zastrzegamy sobie prawo do blokowania wszelkich żądań wysyłanych do tych usług w dowolnym momencie, z dowolnego powodu. Powinieneś użyć niestandardowego klienta użytkownika, jeśli automatyzujesz żądania, aby umożliwić nam identyfikację. 
+
+***Korzystanie z usług stron trzecich***
 Korzystanie z usług stron trzecich w jakiejkolwiek świadczonej przez nas usłudze nie oznacza poparcia tych usług ani nie ponosimy odpowiedzialności za działania podejmowane przez nie. Zgadzasz się, że nie ponosimy odpowiedzialności za jakiekolwiek straty lub szkody poniesione Fw wyniku interakcji z tymi usługami.
 Branding
 Branding Aquis'a (np. nasze logo, funkcje...) NIE MOŻE być używane w sposób szkodliwy dla naszej marki, na przykład próbując oszukać użytkownika i wyrządzić szkodę innemu użytkownikowi lub w jakikolwiek inny złośliwy sposób. 
